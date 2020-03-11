@@ -1,0 +1,14 @@
+{
+    "name": "facepp/facepp-php-sdk",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fpp\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fpp\\Tests\\": "tests/"
+        }
+    }
+}
