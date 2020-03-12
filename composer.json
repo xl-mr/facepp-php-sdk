@@ -1,6 +1,6 @@
 {
     "name": "facepp/facepp-php-sdk",
-    "license": "MIT",
+    "license": "Apache 2.0",
     "require": {},
     "autoload": {
         "psr-4": {
